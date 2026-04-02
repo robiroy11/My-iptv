@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1,Somoy News TV
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+
+#EXTINF:-1,Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+
+#EXTINF:-1,Independent TV
+https://independent.pc.cdn.bitgravity.com/itv/live/playlist.m3u8
+
+#EXTINF:-1,Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1,Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1,ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+
+#EXTINF:-1,NTV
+https://ntv-live.asnetbd.com/ntv/live/playlist.m3u8
+
+#EXTINF:-1,Channel i
+https://channeli-live.asnetbd.com/channeli/live/playlist.m3u8

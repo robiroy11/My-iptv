@@ -134,3 +134,27 @@ https://b4u-movies-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d5964
 
 #EXTINF:-1,Enterr10
 https://enterr10-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/enterr10/index.m3u8
+
+#EXTINF:-1,Star Sports 1 Bangla
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starsports1bangla/index.m3u8
+
+#EXTINF:-1,Star Sports 1 Hindi
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starsports1hindi/index.m3u8
+
+#EXTINF:-1,Star Sports 2
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starsports2/index.m3u8
+
+#EXTINF:-1,Sony Sports Ten 1
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonysportsten1/index.m3u8
+
+#EXTINF:-1,Sony Sports Ten 2
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonysportsten2/index.m3u8
+
+#EXTINF:-1,Sony Sports Ten 5
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonysportsten5/index.m3u8
+
+#EXTINF:-1,Sports18 1
+https://viacom-sports18-1-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/sports18/index.m3u8
+
+#EXTINF:-1,Euro Sport
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/eurosport/index.m3u8

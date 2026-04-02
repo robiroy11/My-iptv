@@ -1,24 +1,70 @@
 #EXTM3U
-#EXTINF:-1,Somoy News TV
-https://bozztv.com/rongo/rongo-somoy/index.m3u8
 
-#EXTINF:-1,Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1,BTV (Bangladesh Television)
+https://btv-live.asnetbd.com/btv/live/playlist.m3u8
+
+#EXTINF:-1,BTV World
+https://btvworld-live.asnetbd.com/btvworld/live/playlist.m3u8
+
+#EXTINF:-1,Sangsad Television
+https://sangsad-live.asnetbd.com/sangsad/live/playlist.m3u8
+
+#EXTINF:-1,Somoy News
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
 
 #EXTINF:-1,Independent TV
 https://independent.pc.cdn.bitgravity.com/itv/live/playlist.m3u8
 
-#EXTINF:-1,Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1,Jamuna TV
+https://jamuna-live.asnetbd.com/jamuna/live/playlist.m3u8
 
-#EXTINF:-1,Ekushey TV
-https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1,News24
+https://news24-live.asnetbd.com/news24/live/playlist.m3u8
 
-#EXTINF:-1,ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1,Channel 24
+https://channel24-live.asnetbd.com/channel24/live/playlist.m3u8
+
+#EXTINF:-1,Ekattor TV (71 TV)
+https://71-live.asnetbd.com/71/live/playlist.m3u8
+
+#EXTINF:-1,DBC News
+https://dbc-live.asnetbd.com/dbc/live/playlist.m3u8
 
 #EXTINF:-1,NTV
 https://ntv-live.asnetbd.com/ntv/live/playlist.m3u8
 
+#EXTINF:-1,RTV
+https://rtv-live.asnetbd.com/rtv/live/playlist.m3u8
+
 #EXTINF:-1,Channel i
 https://channeli-live.asnetbd.com/channeli/live/playlist.m3u8
+
+#EXTINF:-1,Maasranga TV
+https://maasranga-live.asnetbd.com/maasranga/live/playlist.m3u8
+
+#EXTINF:-1,BanglaVision
+https://banglavision-live.asnetbd.com/banglavision/live/playlist.m3u8
+
+#EXTINF:-1,Deepto TV
+https://deepto-live.asnetbd.com/deepto/live/playlist.m3u8
+
+#EXTINF:-1,Nagorik TV
+https://nagorik-live.asnetbd.com/nagorik/live/playlist.m3u8
+
+#EXTINF:-1,Ekushey TV (ETV)
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1,Asian TV
+https://asian-live.asnetbd.com/asian/live/playlist.m3u8
+
+#EXTINF:-1,ATN Bangla
+https://atnbangla-live.asnetbd.com/atnbangla/live/playlist.m3u8
+
+#EXTINF:-1,GTV (Gazi TV)
+https://gtv-live.asnetbd.com/gtv/live/playlist.m3u8
+
+#EXTINF:-1,T-Sports (Live Sports)
+https://tsports-live.asnetbd.com/tsports/live/playlist.m3u8
+
+#EXTINF:-1,ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8

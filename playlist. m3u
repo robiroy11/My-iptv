@@ -158,3 +158,25 @@ https://viacom-sports18-1-as-hls.akamaized.net/v1/master/9242d56a05ee712760778ab
 
 #EXTINF:-1,Euro Sport
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/eurosport/index.m3u8
+
+#EXTINF:-1,Paksat (Ptv Sports)
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/ptvsports/index.m3u8
+
+#EXTINF:-1,Ten Sports Pakistan
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/tensports/index.m3u8
+
+#EXTINF:-1,A Sports HD
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/asports/index.m3u8
+
+#EXTINF:-1,Geo Super
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/geosuper/index.m3u8
+
+
+#EXTINF:-1,Willow Cricket (USA)
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/willow/index.m3u8
+
+#EXTINF:-1,Sky Sports Cricket
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/skysportscricket/index.m3u8
+
+#EXTINF:-1,Sky Sports Main Event
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/skysportsmainevent/index.m3u8

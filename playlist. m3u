@@ -180,3 +180,24 @@ https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b
 
 #EXTINF:-1,Sky Sports Main Event
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/skysportsmainevent/index.m3u8
+
+#EXTINF:-1,Sony Sports Ten 2 (International Football)
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonysportsten2/index.m3u8
+
+#EXTINF:-1,Star Sports Select 1
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starsportsselect1/index.m3u8
+
+#EXTINF:-1,Sports18 1 (World Cup Broadcaster)
+https://viacom-sports18-1-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/sports18/index.m3u8
+
+#EXTINF:-1,T-Sports (Bangladesh Sports)
+https://tsports-live.asnetbd.com/tsports/live/playlist.m3u8
+
+#EXTINF:-1,GTV (Gazi TV Football)
+https://gtv-live.asnetbd.com/gtv/live/playlist.m3u8
+
+#EXTINF:-1,Fox Sports (International)
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/foxsports/index.m3u8
+
+#EXTINF:-1,beIN Sports 1 (Global)
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/beinsports1/index.m3u8

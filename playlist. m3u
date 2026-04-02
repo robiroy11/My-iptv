@@ -68,3 +68,41 @@ https://tsports-live.asnetbd.com/tsports/live/playlist.m3u8
 
 #EXTINF:-1,ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+
+#EXTINF:-1,Zee Bangla
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/zeebangla/playlist.m3u8
+
+#EXTINF:-1,Star Jalsha
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starjalsha/playlist.m3u8
+
+#EXTINF:-1,Colors Bangla
+https://viacom-colors-bangla-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/colorsbangla/index.m3u8
+
+#EXTINF:-1,Sony Aath
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonyaath/index.m3u8
+
+# সিনেমা চ্যানেল (Movies)
+#EXTINF:-1,Jalsha Movies
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/jalshamovies/index.m3u8
+
+#EXTINF:-1,Zee Bangla Cinema
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/zeebanglacinema/index.m3u8
+
+#EXTINF:-1,Colors Bangla Cinema
+https://viacom-colors-bangla-cinema-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/colorsbanglacinema/index.m3u8
+
+# সংবাদ ও সঙ্গীত (News & Music)
+#EXTINF:-1,ABP Ananda
+https://abp-hls-fallback.akamaized.net/live/abpananda/index.m3u8
+
+#EXTINF:-1,Zee 24 Ghanta
+https://zee-24-ghanta-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/zee24ghanta/index.m3u8
+
+#EXTINF:-1,News18 Bangla
+https://news18-bengali-r-nodv-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/news18bengali/index.m3u8
+
+#EXTINF:-1,TV9 Bangla
+https://tv9-bangla-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/tv9bangla/index.m3u8
+
+#EXTINF:-1,Sangeet Bangla
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sangeetbangla/index.m3u8

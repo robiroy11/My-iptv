@@ -81,7 +81,6 @@ https://viacom-colors-bangla-as-hls.akamaized.net/v1/master/9242d56a05ee71276077
 #EXTINF:-1,Sony Aath
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonyaath/index.m3u8
 
-# সিনেমা চ্যানেল (Movies)
 #EXTINF:-1,Jalsha Movies
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/jalshamovies/index.m3u8
 
@@ -91,7 +90,6 @@ https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b
 #EXTINF:-1,Colors Bangla Cinema
 https://viacom-colors-bangla-cinema-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/colorsbanglacinema/index.m3u8
 
-# সংবাদ ও সঙ্গীত (News & Music)
 #EXTINF:-1,ABP Ananda
 https://abp-hls-fallback.akamaized.net/live/abpananda/index.m3u8
 
@@ -106,3 +104,33 @@ https://tv9-bangla-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d5964
 
 #EXTINF:-1,Sangeet Bangla
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sangeetbangla/index.m3u8
+
+#EXTINF:-1,Star Gold
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/stargold/index.m3u8
+
+#EXTINF:-1,Zee Cinema
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/zeecinema/index.m3u8
+
+#EXTINF:-1,Sony MAX
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonymax/index.m3u8
+
+#EXTINF:-1,Colors Cineplex
+https://viacom-colors-cineplex-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/colorscineplex/index.m3u8
+
+#EXTINF:-1,&pictures
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/andpictures/index.m3u8
+
+#EXTINF:-1,Goldmines
+https://goldmines-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/goldmines/index.m3u8
+
+#EXTINF:-1,Sony MAX 2
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonymax2/index.m3u8
+
+#EXTINF:-1,Star Utsav Movies
+https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starutsavmovies/index.m3u8
+
+#EXTINF:-1,B4U Movies
+https://b4u-movies-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/b4umovies/index.m3u8
+
+#EXTINF:-1,Enterr10
+https://enterr10-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/enterr10/index.m3u8

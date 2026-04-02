@@ -1,203 +1,129 @@
 #EXTM3U
-
 #EXTINF:-1,BTV (Bangladesh Television)
 https://btv-live.asnetbd.com/btv/live/playlist.m3u8
-
 #EXTINF:-1,BTV World
 https://btvworld-live.asnetbd.com/btvworld/live/playlist.m3u8
-
 #EXTINF:-1,Sangsad Television
 https://sangsad-live.asnetbd.com/sangsad/live/playlist.m3u8
-
 #EXTINF:-1,Somoy News
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
-
 #EXTINF:-1,Independent TV
 https://independent.pc.cdn.bitgravity.com/itv/live/playlist.m3u8
-
 #EXTINF:-1,Jamuna TV
 https://jamuna-live.asnetbd.com/jamuna/live/playlist.m3u8
-
 #EXTINF:-1,News24
 https://news24-live.asnetbd.com/news24/live/playlist.m3u8
-
 #EXTINF:-1,Channel 24
 https://channel24-live.asnetbd.com/channel24/live/playlist.m3u8
-
 #EXTINF:-1,Ekattor TV (71 TV)
 https://71-live.asnetbd.com/71/live/playlist.m3u8
-
 #EXTINF:-1,DBC News
 https://dbc-live.asnetbd.com/dbc/live/playlist.m3u8
-
 #EXTINF:-1,NTV
 https://ntv-live.asnetbd.com/ntv/live/playlist.m3u8
-
 #EXTINF:-1,RTV
 https://rtv-live.asnetbd.com/rtv/live/playlist.m3u8
-
 #EXTINF:-1,Channel i
 https://channeli-live.asnetbd.com/channeli/live/playlist.m3u8
-
 #EXTINF:-1,Maasranga TV
 https://maasranga-live.asnetbd.com/maasranga/live/playlist.m3u8
-
 #EXTINF:-1,BanglaVision
 https://banglavision-live.asnetbd.com/banglavision/live/playlist.m3u8
-
 #EXTINF:-1,Deepto TV
 https://deepto-live.asnetbd.com/deepto/live/playlist.m3u8
-
 #EXTINF:-1,Nagorik TV
 https://nagorik-live.asnetbd.com/nagorik/live/playlist.m3u8
-
 #EXTINF:-1,Ekushey TV (ETV)
 https://ekusheyserver.com/etvlivesn.m3u8
-
 #EXTINF:-1,Asian TV
 https://asian-live.asnetbd.com/asian/live/playlist.m3u8
-
 #EXTINF:-1,ATN Bangla
 https://atnbangla-live.asnetbd.com/atnbangla/live/playlist.m3u8
-
 #EXTINF:-1,GTV (Gazi TV)
 https://gtv-live.asnetbd.com/gtv/live/playlist.m3u8
-
 #EXTINF:-1,T-Sports (Live Sports)
 https://tsports-live.asnetbd.com/tsports/live/playlist.m3u8
-
 #EXTINF:-1,ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-
 #EXTINF:-1,Zee Bangla
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/zeebangla/playlist.m3u8
-
 #EXTINF:-1,Star Jalsha
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starjalsha/playlist.m3u8
-
 #EXTINF:-1,Colors Bangla
 https://viacom-colors-bangla-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/colorsbangla/index.m3u8
-
 #EXTINF:-1,Sony Aath
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonyaath/index.m3u8
-
 #EXTINF:-1,Jalsha Movies
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/jalshamovies/index.m3u8
-
 #EXTINF:-1,Zee Bangla Cinema
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/zeebanglacinema/index.m3u8
-
 #EXTINF:-1,Colors Bangla Cinema
 https://viacom-colors-bangla-cinema-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/colorsbanglacinema/index.m3u8
-
 #EXTINF:-1,ABP Ananda
 https://abp-hls-fallback.akamaized.net/live/abpananda/index.m3u8
-
 #EXTINF:-1,Zee 24 Ghanta
 https://zee-24-ghanta-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/zee24ghanta/index.m3u8
-
 #EXTINF:-1,News18 Bangla
 https://news18-bengali-r-nodv-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/news18bengali/index.m3u8
-
 #EXTINF:-1,TV9 Bangla
 https://tv9-bangla-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/tv9bangla/index.m3u8
-
 #EXTINF:-1,Sangeet Bangla
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sangeetbangla/index.m3u8
-
 #EXTINF:-1,Star Gold
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/stargold/index.m3u8
-
 #EXTINF:-1,Zee Cinema
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/zeecinema/index.m3u8
-
 #EXTINF:-1,Sony MAX
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonymax/index.m3u8
-
 #EXTINF:-1,Colors Cineplex
 https://viacom-colors-cineplex-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/colorscineplex/index.m3u8
-
 #EXTINF:-1,&pictures
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/andpictures/index.m3u8
-
 #EXTINF:-1,Goldmines
 https://goldmines-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/goldmines/index.m3u8
-
 #EXTINF:-1,Sony MAX 2
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonymax2/index.m3u8
-
 #EXTINF:-1,Star Utsav Movies
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starutsavmovies/index.m3u8
-
 #EXTINF:-1,B4U Movies
 https://b4u-movies-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/b4umovies/index.m3u8
-
 #EXTINF:-1,Enterr10
 https://enterr10-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/enterr10/index.m3u8
-
 #EXTINF:-1,Star Sports 1 Bangla
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starsports1bangla/index.m3u8
-
 #EXTINF:-1,Star Sports 1 Hindi
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starsports1hindi/index.m3u8
-
 #EXTINF:-1,Star Sports 2
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starsports2/index.m3u8
-
 #EXTINF:-1,Sony Sports Ten 1
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonysportsten1/index.m3u8
-
 #EXTINF:-1,Sony Sports Ten 2
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonysportsten2/index.m3u8
-
 #EXTINF:-1,Sony Sports Ten 5
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonysportsten5/index.m3u8
-
 #EXTINF:-1,Sports18 1
 https://viacom-sports18-1-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/sports18/index.m3u8
-
 #EXTINF:-1,Euro Sport
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/eurosport/index.m3u8
-
 #EXTINF:-1,Paksat (Ptv Sports)
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/ptvsports/index.m3u8
-
 #EXTINF:-1,Ten Sports Pakistan
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/tensports/index.m3u8
-
 #EXTINF:-1,A Sports HD
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/asports/index.m3u8
-
 #EXTINF:-1,Geo Super
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/geosuper/index.m3u8
-
-
 #EXTINF:-1,Willow Cricket (USA)
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/willow/index.m3u8
-
 #EXTINF:-1,Sky Sports Cricket
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/skysportscricket/index.m3u8
-
 #EXTINF:-1,Sky Sports Main Event
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/skysportsmainevent/index.m3u8
-
-#EXTINF:-1,Sony Sports Ten 2 (International Football)
-https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/sonysportsten2/index.m3u8
-
 #EXTINF:-1,Star Sports Select 1
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/starsportsselect1/index.m3u8
-
 #EXTINF:-1,Sports18 1 (World Cup Broadcaster)
 https://viacom-sports18-1-as-hls.akamaized.net/v1/master/9242d56a05ee712760778abc4d59648b/sports18/index.m3u8
-
-#EXTINF:-1,T-Sports (Bangladesh Sports)
-https://tsports-live.asnetbd.com/tsports/live/playlist.m3u8
-
-#EXTINF:-1,GTV (Gazi TV Football)
-https://gtv-live.asnetbd.com/gtv/live/playlist.m3u8
-
 #EXTINF:-1,Fox Sports (International)
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/foxsports/index.m3u8
-
 #EXTINF:-1,beIN Sports 1 (Global)
 https://d2q8p4pe5nebak.cloudfront.net/v1/master/9242d56a05ee712760778abc4d59648b/beinsports1/index.m3u8

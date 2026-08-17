@@ -378,3 +378,5 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies" group-title="Kolkata Bangla Movies",Jalsha Movies
 http://103.165.93.31:8095/jalshaMovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV News" tvg-logo="" group-title="Bangla", BTV News
+https://server6.iptvchannels.workers.dev/tV8mB2zP7rX4kL1w/tracks-v1a1/mono.ts.m3u8

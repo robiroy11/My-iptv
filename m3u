@@ -414,3 +414,5 @@ http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla" group-title="Entertainment", Colors Bangla
 http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png" group-title="India",MOV | Shemaroo Bollywood 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
